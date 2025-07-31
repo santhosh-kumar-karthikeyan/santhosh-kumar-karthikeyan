@@ -19,4 +19,7 @@ I’m all about self-hosting and automating stuff — trying to replace every pr
 ---
 [![](https://visitcount.itsvg.in/api?id=santhosh-kumar-karthikeyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👁️ Profile Views
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=santhosh-kumar-karthikeyan)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
